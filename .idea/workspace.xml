@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af04d364-9334-4a2f-9076-0f04fb8dfb9c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xqh5xBKJ1ZfzyeVFcPBcfan2WB" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resources/NopCommerceTestCases" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ansh\IdeaProjects\NopCommercePageObject\src\test\Resources\NopCommerceTestCases" />
+      <recent name="C:\Users\Ansh\IdeaProjects\NopCommercePageObject\src\test\Resources\NopcommerceTestcases" />
+      <recent name="C:\Users\Ansh\IdeaProjects\NopCommercePageObject\src\test\Resources\BrowserDriver" />
+      <recent name="C:\Users\Ansh\IdeaProjects\NopCommercePageObject\src\test\Resources\BrowserDriver\ChromeDriver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestSuit.UserShouldBeAbleToCompareTwoDifferentProductsSuccessfully">
+    <configuration name="TestSuit.RegisteredUserShouldBeAbleToReferAFriendSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopCommercePageObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ABC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ABC" />
+      <option name="MAIN_CLASS_NAME" value="ABC.TestSuit" />
+      <option name="METHOD_NAME" value="RegisteredUserShouldBeAbleToReferAFriendSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.UserShouldAbleToRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopCommercePageObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ABC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ABC" />
+      <option name="MAIN_CLASS_NAME" value="ABC.TestSuit" />
+      <option name="METHOD_NAME" value="UserShouldAbleToRegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.UserShouldBeAbleToCompareTwoDifferentProductsSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopCommercePageObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ABC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ABC" />
+      <option name="MAIN_CLASS_NAME" value="ABC.TestSuit" />
+      <option name="METHOD_NAME" value="UserShouldBeAbleToCompareTwoDifferentProductsSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.UserShouldBeAbleToSortProductHighToLowByPrice" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopCommercePageObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ABC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ABC" />
+      <option name="MAIN_CLASS_NAME" value="ABC.TestSuit" />
+      <option name="METHOD_NAME" value="UserShouldBeAbleToSortProductHighToLowByPrice" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.nonRegisterUserShouldNotBeAbleToReferAProductToAFriend" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopCommercePageObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ABC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ABC" />
+      <option name="MAIN_CLASS_NAME" value="ABC.TestSuit" />
+      <option name="METHOD_NAME" value="nonRegisterUserShouldNotBeAbleToReferAProductToAFriend" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuit.UserShouldBeAbleToCompareTwoDifferentProductsSuccessfully" />
+        <item itemvalue="TestNG.TestSuit.UserShouldAbleToRegisterSuccessfully" />
+        <item itemvalue="TestNG.TestSuit.RegisteredUserShouldBeAbleToReferAFriendSuccessfully" />
+        <item itemvalue="TestNG.TestSuit.nonRegisterUserShouldNotBeAbleToReferAProductToAFriend" />
+        <item itemvalue="TestNG.TestSuit.UserShouldBeAbleToSortProductHighToLowByPrice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af04d364-9334-4a2f-9076-0f04fb8dfb9c" name="Default Changelist" comment="" />
+      <created>1581779352630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581779352630</updated>
+    </task>
+    <servers />
+  </component>
+</project>
