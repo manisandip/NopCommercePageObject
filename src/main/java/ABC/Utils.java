@@ -15,11 +15,11 @@ import java.util.Date;
 public class Utils extends BasePage
 {
 
-    public void ClickOnElement(By by)
+    public void clickOnElement(By by)
             {
         driver.findElement(by).click();
     }
-    public void ClickOnComputers(By by){
+    public void clickOnComputers(By by){
         driver.findElement(by).click();
     }
 
@@ -95,5 +95,8 @@ public class Utils extends BasePage
     public static void writeText(By by,String strvalue){
         driver.findElement(by).sendKeys(strvalue);
     }
-
+    public static void SelectTextFromDropDown(By by, String text) {
+        Select selectCountry = new Select(driver.findElement(by));
+        selectCountry.selectByValue(text);
+    }
 }

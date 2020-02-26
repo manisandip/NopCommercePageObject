@@ -28,7 +28,7 @@ public class EmailAFriendPage extends Utils {
                 writeText(_yourEmailAddress,yourEmail);
             }
             writeText(_personalMessage,personalMessage);
-            ClickOnElement(_emailButton);
+            clickOnElement(_emailButton);
         }
 
     }

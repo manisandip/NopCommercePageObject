@@ -18,7 +18,7 @@ public class Computers extends Utils {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        ClickOnElement(_Notebook);
+        clickOnElement(_Notebook);
     }
     private By _dropdown = By.id("products-orderby");
     private String priceHighToLow = "Price: High to Low";

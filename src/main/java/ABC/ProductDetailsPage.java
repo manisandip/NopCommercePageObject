@@ -24,25 +24,25 @@ public class ProductDetailsPage extends Utils {
                 e.printStackTrace();
             }
 
-            ClickOnElement(_noteBooks);
+            clickOnElement(_noteBooks);
         }
 
         // user click on apple mac
         public void userClickOnAppleMac() {
 
-            ClickOnElement(_appleMac);
+            clickOnElement(_appleMac);
         }
 
         //Refer to friend
         public void UserReferToFriend() {
             //click email refer
-            ClickOnElement(_email);
+            clickOnElement(_email);
             //Enter friend email id
             EnterText(_friendEmail, "me14@gmail.com");
             //enter your email id
             EnterText(_yourEmail, "me123@test1.com");
             //click send email button
-            ClickOnElement(_sendEmail);
+            clickOnElement(_sendEmail);
         }
 
     }

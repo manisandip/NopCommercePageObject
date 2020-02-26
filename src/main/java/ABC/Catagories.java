@@ -25,25 +25,25 @@ public class Catagories extends Utils {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        ClickOnElement(_noteBooks);
+        clickOnElement(_noteBooks);
     }
 
     //select item Apple MacBook Pro
     public void userClickOnApplemac() {
-        ClickOnElement(_appleMac);
+        clickOnElement(_appleMac);
     }
 
     // Refer to friend
     public void userReferToFriend() {
         //click email to refer
-        ClickOnElement(_email);
+        clickOnElement(_email);
 //Enter details to refer a friend
         EnterText(_friendEmail, "me12@gmail.com");
         //EnterText(_yourEmail,"mani12@test1.com");
         //enter text in text box
         EnterText(_writeIntextBox, "message");
 // click send email button
-        ClickOnElement(_sendEmail);
+        clickOnElement(_sendEmail);
 
         // assertTextMessage( "Your message has been sent.",expected,_successfullReferMessage);
 //

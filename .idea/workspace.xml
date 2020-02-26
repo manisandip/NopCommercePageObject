@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af04d364-9334-4a2f-9076-0f04fb8dfb9c" name="Default Changelist" comment="" />
+    <list default="true" id="af04d364-9334-4a2f-9076-0f04fb8dfb9c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ABC/BrowserSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ABC/BrowserSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ABC/Catagories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ABC/Catagories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ABC/Computers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ABC/Computers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ABC/EmailAFriendPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ABC/EmailAFriendPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ABC/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ABC/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ABC/JewelryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ABC/JewelryPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ABC/ProductDetailsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ABC/ProductDetailsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ABC/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ABC/RegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ABC/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ABC/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Resources/NopCommerceTestCases/nopcommerce testcases.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ABC/TestSuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ABC/TestSuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ABC/BrowserSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ABC/BrowserSelector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ABC/Catagories.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ABC/Catagories.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ABC/Computers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ABC/Computers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ABC/EmailAFriendPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ABC/EmailAFriendPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ABC/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ABC/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ABC/JewelryPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ABC/JewelryPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ABC/ProductDetailsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ABC/ProductDetailsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ABC/RegistrationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ABC/RegistrationPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ABC/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ABC/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ABC/TestSuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ABC/TestSuit.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +41,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,14 +52,20 @@
     </option>
   </component>
   <component name="ProjectId" id="1Xqh5xBKJ1ZfzyeVFcPBcfan2WB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resources/NopCommerceTestCases" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resources/NopcommerceTestcases" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ansh\IdeaProjects\NopCommercePageObject\src\test\Resources\TestData" />
+      <recent name="C:\Users\Ansh\IdeaProjects\NopCommercePageObject\src\test\Resources\BrowserDriver" />
       <recent name="C:\Users\Ansh\IdeaProjects\NopCommercePageObject\src\test\Resources\NopCommerceTestCases" />
       <recent name="C:\Users\Ansh\IdeaProjects\NopCommercePageObject\src\test\Resources\NopcommerceTestcases" />
-      <recent name="C:\Users\Ansh\IdeaProjects\NopCommercePageObject\src\test\Resources\BrowserDriver" />
       <recent name="C:\Users\Ansh\IdeaProjects\NopCommercePageObject\src\test\Resources\BrowserDriver\ChromeDriver" />
     </key>
   </component>
@@ -46,25 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestSuit.UserShouldBeAbleToCompareTwoDifferentProductsSuccessfully">
-    <configuration name="TestSuit.RegisteredUserShouldBeAbleToReferAFriendSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="NopCommercePageObject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ABC.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ABC" />
-      <option name="MAIN_CLASS_NAME" value="ABC.TestSuit" />
-      <option name="METHOD_NAME" value="RegisteredUserShouldBeAbleToReferAFriendSuccessfully" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.TestSuit.guestUserShouldBeAbleToCheckoutSuccessfully">
     <configuration name="TestSuit.UserShouldAbleToRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="NopCommercePageObject" />
       <extension name="coverage">
@@ -83,7 +100,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSuit.UserShouldBeAbleToCompareTwoDifferentProductsSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSuit.guestUserShouldBeAbleToCheckoutSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="NopCommercePageObject" />
       <extension name="coverage">
         <pattern>
@@ -93,7 +110,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="ABC" />
       <option name="MAIN_CLASS_NAME" value="ABC.TestSuit" />
-      <option name="METHOD_NAME" value="UserShouldBeAbleToCompareTwoDifferentProductsSuccessfully" />
+      <option name="METHOD_NAME" value="guestUserShouldBeAbleToCheckoutSuccessfully" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -101,7 +118,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSuit.UserShouldBeAbleToSortProductHighToLowByPrice" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSuit.userShouldBeAbleToAddNewCommentOnNopCommerceWeb" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="NopCommercePageObject" />
       <extension name="coverage">
         <pattern>
@@ -111,7 +128,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="ABC" />
       <option name="MAIN_CLASS_NAME" value="ABC.TestSuit" />
-      <option name="METHOD_NAME" value="UserShouldBeAbleToSortProductHighToLowByPrice" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToAddNewCommentOnNopCommerceWeb" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -119,7 +136,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSuit.nonRegisterUserShouldNotBeAbleToReferAProductToAFriend" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSuit.userShouldBeAbleToVerifyCurrencyChange" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="NopCommercePageObject" />
       <extension name="coverage">
         <pattern>
@@ -129,7 +146,25 @@
       </extension>
       <option name="PACKAGE_NAME" value="ABC" />
       <option name="MAIN_CLASS_NAME" value="ABC.TestSuit" />
-      <option name="METHOD_NAME" value="nonRegisterUserShouldNotBeAbleToReferAProductToAFriend" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToVerifyCurrencyChange" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.verifyAddToCartButtonIsPresentInAllFeaturedProducts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopCommercePageObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ABC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ABC" />
+      <option name="MAIN_CLASS_NAME" value="ABC.TestSuit" />
+      <option name="METHOD_NAME" value="verifyAddToCartButtonIsPresentInAllFeaturedProducts" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -139,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestSuit.UserShouldBeAbleToCompareTwoDifferentProductsSuccessfully" />
+        <item itemvalue="TestNG.TestSuit.guestUserShouldBeAbleToCheckoutSuccessfully" />
+        <item itemvalue="TestNG.TestSuit.userShouldBeAbleToAddNewCommentOnNopCommerceWeb" />
+        <item itemvalue="TestNG.TestSuit.verifyAddToCartButtonIsPresentInAllFeaturedProducts" />
+        <item itemvalue="TestNG.TestSuit.userShouldBeAbleToVerifyCurrencyChange" />
         <item itemvalue="TestNG.TestSuit.UserShouldAbleToRegisterSuccessfully" />
-        <item itemvalue="TestNG.TestSuit.RegisteredUserShouldBeAbleToReferAFriendSuccessfully" />
-        <item itemvalue="TestNG.TestSuit.nonRegisterUserShouldNotBeAbleToReferAProductToAFriend" />
-        <item itemvalue="TestNG.TestSuit.UserShouldBeAbleToSortProductHighToLowByPrice" />
       </list>
     </recent_temporary>
   </component>
@@ -159,5 +194,18 @@
       <updated>1581779352630</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
