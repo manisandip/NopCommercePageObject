@@ -5,20 +5,21 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class LoadProp {
+
     static Properties prop;
     static FileInputStream input;
-    static String fileName = "config.properties";
-    static String fileLocation = "src/test/Resources/TestData/";
+    static String fileName = "testconfig.properties";
+    static String fileLocation = "src/test/Resources/Data/";
 
-    public String getProperty(String Key){
+    public String getProperty(String key){
         prop = new Properties();
-        try {
+        try{
             input = new FileInputStream(fileLocation + fileName);
             prop.load(input);
             input.close();
-        }catch (IOException e){
+        }catch(IOException e){
             e.printStackTrace();
         }
-        return prop.getProperty(Key);
+        return prop.getProperty(key);
     }
 }

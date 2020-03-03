@@ -99,6 +99,7 @@ public class TestSuit extends BaseTest {
         computers.UserClickOnNotebook();
         //select position price High to low from dropdown
         computers.UserSelectFRomPositionPriceHighToLow();
+        computers.verifyUserShouldBeAbleToSeePriceHighToLow();
 
     }
 
@@ -149,7 +150,8 @@ public class TestSuit extends BaseTest {
     @Test
     public void verifyAddToCartButtonIsPresentInAllFeaturedProducts(){
        //user should be able to varify add to cart button is present in
-        addToCartButton.AddToCartButton();
+       // addToCartButton.AddToCartButton();
+        homePage.checkAddtoCartButtonOnAllProducts();
 
 
     }

@@ -6,6 +6,8 @@ import org.testng.asserts.SoftAssert;
 
 import java.util.List;
 
+import static org.testng.Assert.assertTrue;
+
 public class ChangeCurrency extends Utils {
     private By _currency = By.id("customerCurrency");
     private String value = "Euro";
@@ -26,12 +28,12 @@ public class ChangeCurrency extends Utils {
         for (WebElement we : productlist) {
             System.out.println(we.getText());
             System.out.println("***************");
-            softAssert.assertTrue(we.getText().contains("€"), "$ not found"  + we.getText());
+            softAssert.assertTrue(we.getText().contains("€"), "$ not found" + we.getText());
 
         }
 
-      //  softAssert.assertAll();
-      //  System.out.println("please check your currency");
+        //  softAssert.assertAll();
+        //  System.out.println("please check your currency");
     }
 
 }

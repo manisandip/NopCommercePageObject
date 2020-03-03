@@ -26,11 +26,11 @@ public class Utils extends BasePage
     public static String getTextFromElement(By by){
         return driver.findElement(by).getText();
     }
-    public static String timestamp() {
-        DateFormat dateFormat = new SimpleDateFormat("ddmmhhmmss");
-        Date date = new Date();
-        return (dateFormat.format(date));
 
+    public static String timeStamp(){
+        DateFormat dateFormat = new SimpleDateFormat("DDmmYYHHmmSS");
+        Date date=new Date();
+        return dateFormat.format(date);
     }
 
     public void WaitForClickable(By by, int time) {
@@ -99,4 +99,6 @@ public class Utils extends BasePage
         Select selectCountry = new Select(driver.findElement(by));
         selectCountry.selectByValue(text);
     }
+
+
 }

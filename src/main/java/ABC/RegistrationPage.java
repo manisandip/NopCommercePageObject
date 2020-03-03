@@ -13,7 +13,7 @@ public class RegistrationPage extends Utils
     private By _registerButton = By.id("register-button");
     private String firstName = "Manisha";
     private String lastName = "sharma";
-    private static String timestamp = timestamp();
+    private static String timestamp = timeStamp();
     public void verifyUserIsOnRegisterPage(){
         assertURL("register");
 
@@ -27,7 +27,7 @@ public class RegistrationPage extends Utils
         }
         SendText(_firstName,firstName);
         SendText(_lastName,lastName);
-        SendText(_email,"mani12+" + timestamp() + "@test1.com");
+        SendText(_email,"mani125+"+timestamp+"@test1.com");
         SendText(_password,"12345678");
         SendText(_confirmPassword,"12345678");
         clickOnElement(_registerButton);

@@ -9,7 +9,7 @@ public class NewsPage extends Utils {
     private By _title = By.xpath("//input[@class='enter-comment-title']");
     private String title = "about nopcommerce website";
     private By _comment = By.xpath("//textarea[@class='enter-comment-text']");
-    private String comment = "its very nice ";
+    private String comment = "its very nice +"+timeStamp();
     private By _newcomment = By.xpath("//input[@name = 'add-comment']");
     private By _successmessage = By.xpath("//div[contains(text(),'successfully ')]");
 
